@@ -14,6 +14,6 @@ This repository is based on how you can develop physics simulations using pygame
 
   * Static Body : A body that doesn't move but other bodies can collide with it.
   * Dynamic Body : A body that can be moved by physics simulations.
-  * Kinematic Body: A body that can be moved by the player (or other non-physical code).
+  * Kinematic Body : A body that can be moved by the player (or other non-physical code).
 
 * Dynamic body we need three different arguments <B>Mass</B> (weight), <B>Inertia</B> (To resist change in its state of motion), <B>body_type</B> (what body type we want).
